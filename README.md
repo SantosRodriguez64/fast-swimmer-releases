@@ -22,10 +22,14 @@ You need an internet connection. Full instructions and controls are in `README.t
 | Key | Action |
 |---|---|
 | W / S | swim forward / back |
+| W (Worm) | crawl very slowly along the ground (only a slow wriggle in open water) |
 | Mouse | steer and look around |
-| Space (hold, release) | charge, then lunge (Fish) or dash (Worm) |
+| Space (hold, release) | charge, then lunge (Fish) or dash (Worm: it arches up, then springs off) |
+| E (Fish) | Reveal: Worms and MiniFish glow red through walls for 5 s (every 30 s) |
+| Alt (hold) | look around while swimming straight |
 | Caps Lock | free the mouse cursor / back to mouse-look |
 | Tab | player list |
 | Esc | menu: join code + Copy, Resume, Leave Game |
+| Q / E, F, wheel | spectating: switch player, free camera, zoom |
 
 This repository only hosts the game downloads; the source code is private.
